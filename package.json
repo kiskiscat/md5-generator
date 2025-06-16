@@ -1,0 +1,13 @@
+{
+  "name": "md5-generator",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.+(js)\""
+  },
+  "dependencies": {
+    "crypto-js": "~4.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
